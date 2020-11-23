@@ -1,7 +1,7 @@
 body{
 margin: 0;
 font-family: 'Big Shoulders Stencil Text', cursive;
-font-size: 18px;
+font-size: 24px;
 margin: auto;
 }
 h3{
@@ -16,8 +16,12 @@ ol{
 }
 img {
 
-
 }
+
+button{
+font-size: 20;	
+}
+
 #tryIt {
 	font-size: 24;
  display: flex;
