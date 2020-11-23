@@ -4,7 +4,7 @@ document.getElementById("myBtn").addEventListener("click", function() {
 
 
 document.querySelectorAll(".steveButton")[0].addEventListener("click", function(){
-	alert('Yeah Your Boy');
+	alert('We evaluate opportunities for success, and succeed at that, DAILY');
 });
 
 document.querySelectorAll(".steveButton")[1].addEventListener("click", function(){
@@ -12,7 +12,7 @@ document.querySelectorAll(".steveButton")[1].addEventListener("click", function(
 });
 
 document.querySelectorAll(".steveButton")[2].addEventListener("click", function(){
-	alert('Saving the world');
+	alert('Solve problems with easy and protege level mastery');
 });
 
 document.querySelectorAll(".steveButton")[3].addEventListener("click", function(){
