@@ -4,7 +4,9 @@ font-family: 'Big Shoulders Stencil Text', cursive;
 font-size: 18px;
 margin: auto;
 }
-
+h3{
+	text-align: center;
+}
 main{
 max-width: 800px
 margin: 0px auto;
