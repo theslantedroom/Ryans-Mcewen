@@ -19,6 +19,7 @@ img {
 
 }
 #tryIt {
+	font-size: 24;
  display: flex;
  flex-direction: column;
   align-items: center;
